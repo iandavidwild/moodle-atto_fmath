@@ -1,0 +1,10 @@
+{
+  "name": "moodle-atto_fmath-button",
+  "builds": {
+    "moodle-atto_fmath-button": {
+      "jsfiles": [
+        "button.js"
+      ]
+    }
+  }
+}
